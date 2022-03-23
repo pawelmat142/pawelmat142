@@ -7,3 +7,5 @@ My first project is a simple browser app simulating the Jackpot game, where I us
 Another project will use technologies such as Angular and TypeScript.
 
 [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
+
+[first project - pseudoJackpot](http://drawit.click/)
