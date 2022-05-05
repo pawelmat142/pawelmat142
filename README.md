@@ -8,6 +8,6 @@ Another project will use technologies such as Angular and TypeScript. <br />
 
 [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 
-[first project - pseudoJackpot](http://drawit.click/)
+[First project - pseudoJackpot](http://drawit.click/)
 
-[todo list - in progress](http://drawit.click:443/)
+[Second one - ToDo List](http://drawit.click:443/)
