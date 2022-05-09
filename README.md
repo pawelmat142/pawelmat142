@@ -16,7 +16,7 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 * [zwinna-miotla.pl](https://zwinna-miotla.pl/)
 * [psychoterapiakmalinowska.pl](https://psychoterapiakmalinowska.pl/)
 * [czartowice.pl](http://czartowice.pl/)
-* [directasia.pl](https://directasia.evada.pl/)
+* [dalgroup.eu](http://dalgroup.eu/)
 * [techtronik.com.pl](https://techtronik.com.pl/)
 * [jbuddeweloper.pl](https://jbuddeweloper.pl/)
 * [mscar.pl](https://mscar.pl/)
