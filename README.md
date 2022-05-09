@@ -22,5 +22,6 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 * [mscar.pl](https://mscar.pl/)
 * [ganesa.pl](https://ganesa.pl/)
 * [luxuscar.pl](https://luxuscar.pl/)
+* [infinitylove.pl](https://infinitylove.evada.pl/)
 * [tradycyjnawedzarniaryb.pl](https://tradycyjnawedzarniaryb.pl/)
 
