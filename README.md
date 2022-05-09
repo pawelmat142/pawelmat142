@@ -12,5 +12,15 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 
 [To-Do List](http://drawit.click:443/)
 
-Some of the websites made by me: 
+### Some of the websites coded by me: 
+* [zwinna-miotla.pl](https://zwinna-miotla.pl/)
+* [psychoterapiakmalinowska.pl](https://psychoterapiakmalinowska.pl/)
+* [czartowice.pl](http://czartowice.pl/)
+* [directasia.pl](https://directasia.evada.pl/)
+* [techtronik.com.pl](https://techtronik.com.pl/)
+* [jbuddeweloper.pl](https://jbuddeweloper.pl/)
+* [mscar.pl](https://mscar.pl/)
+* [ganesa.pl](https://ganesa.pl/)
+* [luxuscar.pl](https://luxuscar.pl/)
+* [tradycyjnawedzarniaryb.pl](https://tradycyjnawedzarniaryb.pl/)
 
