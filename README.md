@@ -11,3 +11,6 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 [pseudoJackpot](http://drawit.click/)
 
 [To-Do List](http://drawit.click:443/)
+
+Some of the websites made by me: 
+
