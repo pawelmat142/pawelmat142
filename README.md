@@ -1,3 +1,4 @@
+## About me
 I am a novice JavaScirpt focused developer. <br /> <br />
 I studied Electrical Engineering at the Gdańsk University of Technology, where I learned the basics of programming in C. <br />
 After graduation, I started working as an assistant designer in the power industry, learning programming after hours. <br /> <br />
