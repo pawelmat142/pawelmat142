@@ -6,11 +6,11 @@ I am currently looking for my first job as a programmer while working on a portf
 
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL. <br />
 
-# [pseudoJackpot](http://drawit.click/)
+### [pseudoJackpot](http://drawit.click/)
 
 Another one is To-Do List with drag and drop sorting option made with Angular, Node.js and MongoDB. <br />
 
-# [To-Do List](http://drawit.click:443/)
+### [To-Do List](http://drawit.click:443/)
 
 ### Some of the websites coded by me: 
 * [zwinna-miotla.pl](https://zwinna-miotla.pl/)
@@ -26,5 +26,5 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 * [tradycyjnawedzarniaryb.pl](https://tradycyjnawedzarniaryb.pl/)
 
 
-# [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
+### [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 
