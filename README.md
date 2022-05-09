@@ -23,6 +23,6 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 * [infinitylove.pl](https://infinitylove.evada.pl/)
 * [tradycyjnawedzarniaryb.pl](https://tradycyjnawedzarniaryb.pl/)
 
-
-### [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
+<br /> <br />
+## [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 
