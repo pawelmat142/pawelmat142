@@ -4,10 +4,10 @@ After graduation, I started working as an assistant designer in the power indust
 For 4 months I was working on websites development, where I got to know HTML5, CSS3, JavaScript and the basics of PHP. <br />
 I am currently looking for my first job as a programmer while working on a portfolio. <br /> <br />
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL. <br />
-Another project will use technologies such as Angular and TypeScript. <br />
+Another one is To-Do List with drag and drop sorting option made with Angular, Node.js and MongoDB. <br />
 
 [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 
-[First project - pseudoJackpot](http://drawit.click/)
+[pseudoJackpot](http://drawit.click/)
 
-[Second one - ToDo List](http://drawit.click:443/)
+[To-Do List](http://drawit.click:443/)
