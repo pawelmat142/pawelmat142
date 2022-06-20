@@ -9,6 +9,7 @@ I am currently looking for my first job as a programmer while working on a portf
 <br /> <br />
 
 ## My projects
+<br />
 
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL.
 ### [pseudoJackpot](http://drawit.click/) <br /> <br /> <br />
