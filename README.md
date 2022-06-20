@@ -5,7 +5,7 @@ After graduation, I started working as an assistant designer in the power indust
 For 4 months I was working on websites development, where I got to know HTML5, CSS3, JavaScript and the basics of PHP. <br />
 I am currently looking for my first job as a programmer while working on a portfolio.
 
-## [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
+### [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 <br /> <br />
 
 ## My projects
