@@ -1,4 +1,4 @@
-## About me
+# About me
 I am a novice JavaScirpt focused developer. <br /> <br />
 I studied Electrical Engineering at the Gdańsk University of Technology, where I learned the basics of programming in C. <br />
 After graduation, I started working as an assistant designer in the power industry, learning programming after hours. <br /> <br />
@@ -8,7 +8,7 @@ I am currently looking for my first job as a programmer while working on a portf
 ### [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 <br /> <br />
 
-## My projects
+# My projects
 <br />
 
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL.
