@@ -6,13 +6,13 @@ For 4 months I was working on websites development, where I got to know HTML5, C
 I am currently looking for my first job as a programmer while working on a portfolio. <br /> <br />
 
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL.
-### [pseudoJackpot](http://drawit.click/) <br /> <br />
+### [pseudoJackpot](http://drawit.click/) <br /> <br /> <br />
 
 Another one is To-Do List with drag and drop sorting option made with Angular, Node.js and MongoDB. 
-### [To-Do List](http://drawit.click:443/) <br /> <br />
+### [To-Do List](http://drawit.click:443/) <br /> <br /> <br />
 
 The next project is a tool that will automate and support the process of translating HTML templates by translators.
-### [HTMLtranslationTool](http://drawit.click:8080/) <br /> <br />
+### [HTMLtranslationTool](http://drawit.click:8080/) <br /> <br /> <br />
 
 Now I work on the first mobile app based on technologies like Angular 13 + Ionic 6 + Capacitor + Firebase 11. The motivation for this project is to learn Ionic Framework how to build a mobile app and expand Firebase skills to build a secure app with Firebase.<br /> <br />
 
