@@ -11,6 +11,12 @@ My first project is a simple browser app simulating the Jackpot gambling machine
 Another one is To-Do List with drag and drop sorting option made with Angular, Node.js and MongoDB. 
 ### [To-Do List](http://drawit.click:443/) <br /> <br />
 
+The next project is a tool that will automate and support the process of translating HTML templates by translators.
+### [HTMLtranslationTool](http://drawit.click:8080/) <br /> <br />
+
+Now I work on the first mobile app based on technologies like Angular 13 + Ionic 6 + Capacitor + Firebase 11. The motivation for this project is to learn Ionic Framework how to build a mobile app and expand Firebase skills to build a secure app with Firebase.<br /> <br />
+
+
 ### Some of the websites coded by me: 
 * [zwinna-miotla.pl](https://zwinna-miotla.pl/)
 * [psychoterapiakmalinowska.pl](https://psychoterapiakmalinowska.pl/)
