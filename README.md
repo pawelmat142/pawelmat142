@@ -5,6 +5,8 @@ After graduation, I started working as an assistant designer in the power indust
 For 4 months I was working on websites development, where I got to know HTML5, CSS3, JavaScript and the basics of PHP. <br />
 I am currently looking for my first job as a programmer while working on a portfolio. <br /> <br />
 
+## [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
+
 ## My projects
 
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL.
@@ -31,7 +33,3 @@ Now I work on the first mobile app based on technologies like Angular 13 + Ionic
 * [luxuscar.pl](https://luxuscar.pl/)
 * [infinitylove.pl](https://infinitylove.evada.pl/)
 * [tradycyjnawedzarniaryb.pl](https://tradycyjnawedzarniaryb.pl/)
-
-<br /> <br />
-## [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
-
