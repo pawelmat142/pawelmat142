@@ -12,13 +12,13 @@ I am currently looking for my first job as a programmer while working on a portf
 <br />
 
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL.
-### [pseudoJackpot](http://drawit.click/) <br /> <br /> <br />
+### [pseudoJackpot](https://jackpot.drawit.click/) <br /> <br /> <br />
 
 Another one is To-Do List with drag and drop sorting option made with Angular, Node.js and MongoDB. 
-### [To-Do List](http://drawit.click:443/) <br /> <br /> <br />
+### [To-Do List](https://todo.drawit.click/) <br /> <br /> <br />
 
 The next project is a tool that will automate and support the process of translating HTML templates by translators.
-### [HTMLtranslationTool](http://drawit.click:8080/) <br /> <br /> <br />
+### [HTMLtranslationTool](https://translator.drawit.click/) <br /> <br /> <br />
 
 Now I work on the first mobile app based on technologies like Angular 13 + Ionic 6 + Capacitor + Firebase 11. The motivation for this project is to learn Ionic Framework how to build a mobile app and expand Firebase skills to build a secure app with Firebase.<br /> <br />
 
