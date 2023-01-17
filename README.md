@@ -5,9 +5,9 @@ After graduation, I started working as an assistant designer in the power indust
 For 4 months I was working on websites development, where I got to know HTML5, CSS3, JavaScript and the basics of PHP. <br /> <br />
 At the moment I am working as a junior developer at Comarch (financial industry) with technologies such as Angular, Java, MongoDB. <br /> <br />
 I am still developing new skills after hours working on a prototype project in technologies such as Flutter and NestJS. <br /> <br />
-It would be great to start jog as Flutter developer.
-
+It would be great to start job as Flutter developer.
 <br />
+
 ### [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
 <br /> <br />
 
