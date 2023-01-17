@@ -15,7 +15,11 @@ My first project is a simple browser app simulating the Jackpot gambling machine
 ### [pseudoJackpot](https://jackpot.pppmmm.pl/) <br /> <br /> <br />
 
 Another one is To-Do List with drag and drop sorting option made with Angular, Node.js and MongoDB. 
-### [To-Do List](https://todo.pppmmm.pl/) <br /> <br /> <br />
+### [To-Do List](https://todo.pppmmm.pl/) <br /> 
+
+And mobile version built with Ionic framework. [.apk file](https://drive.google.com/drive/folders/1OpUzcEuO5Mr3DBd4977ORzwrv-EduInr?usp=sharing)
+### [To-Do Mobile](https://github.com/pawelmat142/ToDoApp-Mobile) 
+<br /> <br />
 
 The next project is a tool that will automate and support the process of translating HTML templates by translators.
 ### [HTMLtranslationTool](https://translator.pppmmm.pl/) <br /> <br /> <br />
