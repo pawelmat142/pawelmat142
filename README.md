@@ -10,6 +10,7 @@ I am currently looking for my first job as a programmer while working on a portf
 
 # My projects
 <br />
+
 ### [pseudoJackpot](https://jackpot.pppmmm.pl/)
 My first project is a simple browser app simulating the Jackpot gambling machine game, where I used technologies such as: vanilla JS, Node.js and MySQL.
 <br /> <br />
@@ -19,7 +20,7 @@ Another one is To-Do List with drag and drop sorting option made with Angular, N
 
 ### [To-Do Mobile](https://drive.google.com/drive/folders/1OpUzcEuO5Mr3DBd4977ORzwrv-EduInr?usp=sharing)
 Mobile version built with Ionic framework
-<br />
+<br /><br />
 
 ### [HTMLtranslationTool](https://translator.pppmmm.pl/)
 The next project is a tool that will automate and support the process of translating HTML templates by translators.
