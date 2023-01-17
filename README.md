@@ -27,8 +27,8 @@ The next project is a tool that will automate and support the process of transla
 <br /> <br />
 
 ### [PpChat](https://drive.google.com/drive/folders/1OpUzcEuO5Mr3DBd4977ORzwrv-EduInr?usp=sharing)
-Serverless mobile chat application build with Flutter and Firebase
-
+Serverless mobile chat application built with Flutter and Firebase
+<br />
 
 ### Some of the websites coded by me: 
 * [zwinna-miotla.pl](https://zwinna-miotla.pl/)
