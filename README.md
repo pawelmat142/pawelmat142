@@ -1,11 +1,12 @@
 # About me
-I am a novice developer focused on Flutter and JavaScript technologies. <br /> <br />
-I studied Electrical Engineering at the Gdańsk University of Technology, where I learned the basics of programming in C. <br />
-After graduation, I started working as an assistant designer in the power industry, learning web development after hours. <br /> <br />
-For 4 months I was working on websites development, where I got to know HTML5, CSS3, JavaScript and the basics of PHP. <br /> <br />
-At the moment I am working as a junior developer at Comarch (financial industry) with technologies such as Angular, Java, MongoDB. <br /> <br />
-I am still developing new skills after hours working on a prototype project in technologies such as Flutter and NestJS. <br /> <br />
-It would be great to start job as Flutter developer.
+I studied Electrical Engineering, where I learned the basics of programming in C language.
+Towards the end of my studies, I started intensive learning of JavaScript
+based technologies. Currently work as a junior programmer on a project for the
+insurance industry. So far, I have completed a number of online courses on topics
+such as Angular, Node.js, and Flutter. I have also worked on my own projects, which
+allowed me to gain valuable experience. My strengths include communication skills,
+self-discipline, and fast learning. I am a detail-oriented person and focused on my
+work.
 <br />
 
 ### [LinkedIn](https://www.linkedin.com/in/paweł-Małek)
