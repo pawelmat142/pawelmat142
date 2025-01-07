@@ -5,7 +5,7 @@ During my studies in electrical engineering, I discovered that programming feeds
 
 🌱 Currently working on   
 
-💬 ????Ask me about: [e.g., programming, open-source, new technologies]  
+<!-- 💬 ????Ask me about: [e.g., programming, open-source, new technologies]   -->
 📫 How to reach me: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pawelmat142)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-ma%C5%82ek/)
