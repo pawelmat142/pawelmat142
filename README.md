@@ -23,18 +23,21 @@ During my studies in electrical engineering, I discovered that programming feeds
 
 ## 🌟 Portfolio 
 
-### [📱 StageArt](https://github.com/pawelmat142/StageArt)
+### [🎭 StageArt](https://github.com/pawelmat142/StageArt)
 A platform for Artist Booking Management:
 - **Stack:** NestJS, MongoDB, Firebase, Angular, NgRx  
 - **Description:** Prototype web application designed to streamline the process of connecting event organizers with artists.
 
-### [📱 TodoList](https://github.com/pawelmat142/TodoList)
+### [📝 TodoList](https://github.com/pawelmat142/TodoList)
 A simple and lightweight to-do list application:
 - **Stack:** Angular, Node.js, MongoDB  
 - **Description:** One of my first projects, created as a basic learning experience in app development.
 
+### [🎰 psudoJackpot](https://github.com/pawelmat142/TodoList)
+Simple jackpot gambling machine simulator:
+- **Stack:** vanilla JS, Node.js, MongoDB  
+- **Description:** My first project, created as a fun and engaging way to dive into app development.
 
-<br>
 <br>
 
 ---
