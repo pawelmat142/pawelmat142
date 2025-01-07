@@ -1,0 +1,42 @@
+# Hi there! 👋 I'm Paweł
+
+## 👨‍💻 About Me
+During my studies in electrical engineering, I discovered that programming feeds my need for creativity and there is nothing more satisfying than solving technical or logical problems. My goal is to master the full technology stack to take part in every stage of application development. I am looking for a project where I can truly spread my wings and make a significant impact on its success.
+
+🌱 Currently working on   
+
+💬 ????Ask me about: [e.g., programming, open-source, new technologies]  
+📫 How to reach me: 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pawelmat142)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-ma%C5%82ek/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawelmat142@gmail)
+
+⚡ Fun fact: I’m passionate about mountain biking 🚴‍♂️, trekking 🏔️ and exploring a wide range of experimental music 🎶.
+
+
+## 🚀 Main Technologies
+- **Backend:** Java, Node.js, NestJS
+- **Frontend:** Angular, Flutter
+- **Databases:** MongoDB, MySQL  
+- **Other Tools:** Docker, Git, Linux  
+
+
+## 🌟 Portfolio 
+
+### [📱 StageArt](https://github.com/pawelmat142/StageArt)
+A platform for Artist Booking Management:
+- **Stack:** NestJS, MongoDB, Firebase, Angular, NgRx  
+- **Description:** Prototype web application designed to streamline the process of connecting event organizers with artists.
+
+### [📱 TodoList](https://github.com/pawelmat142/TodoList)
+A simple and lightweight to-do list application:
+- **Stack:** Angular, Node.js, MongoDB  
+- **Description:** One of my first projects, created as a basic learning experience in app development.
+
+
+<br>
+<br>
+
+---
+
+Thanks for stopping by! 😊
