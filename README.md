@@ -28,14 +28,23 @@ A platform for Artist Booking Management:
 - **Stack:** NestJS, MongoDB, Firebase, Angular, NgRx  
 - **Description:** Prototype web application designed to streamline the process of connecting event organizers with artists.
 
+### [💸 binance-bot](https://github.com/pawelmat142/binance-bot)
+The application processes messages from a private Telegram channel containing trading signals and automatically executes operations on Binance Futures contracts.
+- **Stack:** Nest.JS, Telegram API, Binance API
+- **Description:** It is not possible to demonstrate the application because it requires private API keys for Telegram and Binance.
+
 ### [📝 TodoList](https://github.com/pawelmat142/TodoList)
 A simple and lightweight to-do list application:
 - **Stack:** Angular, Node.js, MongoDB  
 - **Description:** One of my first projects, created as a basic learning experience in app development.
 
+### [🔁 telegram-discord-bot](https://github.com/pawelmat142/telegram-discord-bot)
+A bot that automatically forwards messages from a private Telegram channel to a Discord channel.
+- **Stack:** Nest.JS, Telegram API, Discord API
+
 ### [🎰 psudoJackpot](https://github.com/pawelmat142/TodoList)
 Simple jackpot gambling machine simulator:
-- **Stack:** vanilla JS, Node.js, MongoDB  
+- **Stack:** JavaScript, HTML, CSS, Node.js, MongoDB  
 - **Description:** My first project, created as a fun and engaging way to dive into app development.
 
 <br>
