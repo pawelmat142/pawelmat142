@@ -29,7 +29,7 @@ A platform for Artist Booking Management:
 - **Description:** Prototype web application designed to streamline the process of connecting event organizers with artists.
 
 
-### ![](https://github.com/pawelmat142/PpChat/blob/master/assets/images/icon.png) [PpChat](https://github.com/pawelmat142/PpChat)
+### ![](https://github.com/pawelmat142/PpChat/blob/master/assets/images/icon20.png) [PpChat](https://github.com/pawelmat142/PpChat)
 
 - **Stack:** Flutter, Firebase  
 - **Description:** The chat application is a simple demonstration project built with Flutter and Firebase. 
