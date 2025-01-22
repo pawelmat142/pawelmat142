@@ -28,6 +28,13 @@ A platform for Artist Booking Management:
 - **Stack:** NestJS, MongoDB, Firebase, Angular, NgRx  
 - **Description:** Prototype web application designed to streamline the process of connecting event organizers with artists.
 
+
+### ![](../PpChat/assets/images/icon.png) [PpChat](https://github.com/pawelmat142/PpChat)
+
+- **Stack:** Flutter, Firebase  
+- **Description:** The chat application is a simple demonstration project built with Flutter and Firebase. 
+
+
 ### [💸 binance-bot](https://github.com/pawelmat142/binance-bot)
 The application processes messages from a private Telegram channel containing trading signals and automatically executes operations on Binance Futures contracts.
 - **Stack:** Nest.JS, Telegram API, Binance API
