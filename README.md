@@ -36,7 +36,6 @@ A platform for Artist Booking Management:
 
 
 ### [💸 binance-bot](https://github.com/pawelmat142/binance-bot)
-The application processes messages from a private Telegram channel containing trading signals and automatically executes operations on Binance Futures contracts.
 - **Stack:** NestJS, Telegram API, Binance API, MongoDB
 - **Description:** The application processes messages from a private Telegram channel containing trading signals and automatically executes operations on Binance Futures contracts.
 
@@ -49,7 +48,7 @@ A simple and lightweight to-do list application:
 A bot that automatically forwards messages from a private Telegram channel to a Discord channel.
 - **Stack:** Nest.JS, Telegram API, Discord API
 
-### [🎰 psudoJackpot](https://github.com/pawelmat142/TodoList)
+### [🎰 psudoJackpot](https://github.com/pawelmat142/pseudoJackpot)
 Simple jackpot gambling machine simulator:
 - **Stack:** JavaScript, HTML, CSS, Node.js, MongoDB  
 - **Description:** My first project, created as a fun and engaging way to dive into app development.
