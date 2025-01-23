@@ -38,7 +38,7 @@ A platform for Artist Booking Management:
 ### [💸 binance-bot](https://github.com/pawelmat142/binance-bot)
 The application processes messages from a private Telegram channel containing trading signals and automatically executes operations on Binance Futures contracts.
 - **Stack:** NestJS, Telegram API, Binance API, MongoDB
-- **Description:** It is not possible to demonstrate the application because it requires private API keys for Telegram and Binance.
+- **Description:** The application processes messages from a private Telegram channel containing trading signals and automatically executes operations on Binance Futures contracts.
 
 ### [📝 TodoList](https://github.com/pawelmat142/TodoList)
 A simple and lightweight to-do list application:
