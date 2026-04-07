@@ -7,8 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-ma%C5%82ek/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawelmat142@gmail)
 
-⚡ Fun fact: I’m passionate about MTB enduro 🚴‍♂️, trekking 🏔️ and exploring a wide range of experimental music 🎶.
-
 
 ## 🚀 Main Technologies
 - **Backend:** Java, Node.js, NestJS
